@@ -32,7 +32,7 @@ having all the requirements, run the following code:
 
 ```bash
 
-git clone https://github.com/crisanlucid/vite-react-ts-hardhat-web3-NFT-tutorial/
+git clone https://github.com/cryptoforge318/web3-NFT/
 
 cd vite-react-ts-hardhat-web3-NFT-tutorial
 
@@ -256,10 +256,6 @@ export const contract_NFT_ABI = nft.abi;
 # Performance optimizations
 
 For faster runs of your tests and scripts, consider skipping ts-node's type checking by setting the environment variable `TS_NODE_TRANSPILE_ONLY` to `1` in hardhat's environment. For more details see [the documentation](https://hardhat.org/guides/typescript.html#performance-optimizations).
-
-# Resources:
-
-https://rahulsethuram.medium.com/the-new-solidity-dev-stack-buidler-ethers-waffle-typescript-tutorial-f07917de48ae
 
 ```
 
